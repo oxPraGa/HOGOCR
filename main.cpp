@@ -9,7 +9,6 @@
 #include <string>
 using namespace cv;
 using namespace std;
-;
 const String DB1 = "Database/BD1/";
 const String DB2 = "Database/BD2_TAHOMA/";
 const String DB3 = "Database/BD3_TIMES/";
